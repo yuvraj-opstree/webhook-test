@@ -1,0 +1,14 @@
+apiVersion: policy/v1
+kind: PodDisruptionBudget
+metadata:
+  name: "hello-world-in-git-case"
+  namespace: ubtx-v4
+
+  labels:
+    app: "hello-world-dev-mid-era"
+spec:
+  maxUnavailable: 70%
+  selector:
+    matchLabels:
+      app: "hello-world-dev-mid-era"
+  unhealthyPodEvictionPolicy: "AlwaysAllow"
