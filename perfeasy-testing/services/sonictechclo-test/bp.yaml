@@ -1,0 +1,12 @@
+Applied_by:
+  user_email: opstree@opstree.com
+  user_name: Super Admin
+kind: BPService
+metadata:
+  name: sonictechclo-test
+spec:
+  application: perfeasy-testing
+  build_strategy: EVERY
+  external_name: null
+  type: MICROSERVICE
+version: api/v1
