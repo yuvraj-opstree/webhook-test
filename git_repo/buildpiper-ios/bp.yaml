@@ -1,0 +1,11 @@
+Applied_by:
+  user_email: opstree@opstree.com
+  user_name: Super Admin
+kind: BPGitRepo
+metadata:
+  name: buildpiper-ios
+spec:
+  credential: twinkle-github-token
+  git_provider: Github
+  url: https://github.com/twinkle91/buildpiper-ios.git
+version: api/v1

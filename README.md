@@ -1,2 +1,2 @@
-Manifest of BPServiceEnv with id 1837 is generated successfully
+Manifest of BPGitRepo with id 83 is generated successfully
  
