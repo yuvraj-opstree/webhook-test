@@ -1,0 +1,10 @@
+Applied_by:
+  user_email: opstree@opstree.com
+  user_name: Super Admin
+kind: BPApplicationServiceEnvJobTemplate
+metadata:
+  application_env: dev
+  service: aws-frontend
+spec:
+  job_code: non-ms-aws-deploy
+version: api/v1

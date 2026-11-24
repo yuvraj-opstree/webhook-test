@@ -1,2 +1,2 @@
-Manifest of BPServiceEnv with id 1840 is generated successfully
+Manifest of BPApplicationServiceEnvJobTemplate with id 1167 is generated successfully
  
