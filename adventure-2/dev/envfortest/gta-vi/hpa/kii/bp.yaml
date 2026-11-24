@@ -1,0 +1,19 @@
+Applied_by:
+  user_email: yuvraj.patel@opstree.com
+  user_name: Yuvraj Patel
+kind: BPServiceCdHPA
+metadata:
+  application: adventure-2
+  deployment_name: gta-vi-dev-envfortest
+  environment_master: dev
+  service: gta-vi
+spec:
+  application_env: envfortest
+  cpu_threshold: 50
+  default: true
+  maximum_replication: 2
+  minimum_replication: 1
+  name: kii
+  ram_threshold: 50
+  time_zone: Asia/Kolkata
+version: api/v1
