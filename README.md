@@ -1,2 +1,2 @@
-Manifest of BPService with id 1772 is generated successfully
+Manifest of BPServiceEnv with id 1847 is generated successfully
  
