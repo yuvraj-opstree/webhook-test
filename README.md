@@ -1,2 +1,2 @@
-Manifest of BPCredential with id 272 is generated successfully
+Manifest of BPService with id 1762 is generated successfully
  
