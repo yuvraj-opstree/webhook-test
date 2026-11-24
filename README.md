@@ -1,2 +1,2 @@
-Manifest of BPServiceCdHPA with id 268 is generated successfully
+Manifest of BPService with id 1757 is generated successfully
  

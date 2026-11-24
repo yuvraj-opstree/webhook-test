@@ -1,0 +1,12 @@
+Applied_by:
+  user_email: yuvraj.patel@opstree.com
+  user_name: Yuvraj Patel
+kind: BPService
+metadata:
+  name: mrk
+spec:
+  application: adventure-2
+  build_strategy: EVERY
+  external_name: null
+  type: MICROSERVICE
+version: api/v1
