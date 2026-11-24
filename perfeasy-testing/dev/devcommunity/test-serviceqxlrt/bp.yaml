@@ -1,0 +1,16 @@
+Applied_by:
+  user_email: opstree@opstree.com
+  user_name: Super Admin
+kind: BPServiceEnv
+metadata:
+  application: perfeasy-testing
+  service: test-serviceqxlrt
+spec:
+  application_env: devcommunity
+  application_job_template: perfeasy-testing-v2
+  env_role_access: []
+  environment_master: dev
+  manual_build: false
+  manual_deploy: false
+  registry: ot-nexus
+version: api/v1
