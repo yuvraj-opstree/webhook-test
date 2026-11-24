@@ -1,0 +1,16 @@
+Applied_by:
+  user_email: opstree@opstree.com
+  user_name: Super Admin
+kind: BPApplicationEnv
+metadata:
+  name: dev-zuxxbo
+spec:
+  application: perfeasy-testing
+  cluster: community-cluster
+  environment_master: qa
+  manual_build: true
+  manual_deploy: true
+  namespace: dev
+  registries:
+  - ot-nexus
+version: api/v1
