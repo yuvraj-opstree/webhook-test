@@ -1,0 +1,16 @@
+Applied_by:
+  user_email: opstree@opstree.com
+  user_name: Super Admin
+kind: BPApplicationEnv
+metadata:
+  name: qa-test
+spec:
+  application: abhishek-play app
+  cluster: community-cluster
+  environment_master: qa
+  manual_build: true
+  manual_deploy: true
+  namespace: dev-4
+  registries:
+  - ot-nexus
+version: api/v1
