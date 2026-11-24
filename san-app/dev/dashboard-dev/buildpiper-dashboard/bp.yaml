@@ -1,0 +1,16 @@
+Applied_by:
+  user_email: opstree@opstree.com
+  user_name: Super Admin
+kind: BPServiceEnv
+metadata:
+  application: san-app
+  service: buildpiper-dashboard
+spec:
+  application_env: dashboard-dev
+  application_job_template: san-app_mobile-v2
+  env_role_access: []
+  environment_master: dev
+  manual_build: true
+  manual_deploy: true
+  registry: null
+version: api/v1
