@@ -1,2 +1,2 @@
-Manifest of BPGitRepo with id 83 is generated successfully
+Manifest of BPServiceCD with id 1116 is generated successfully
  
