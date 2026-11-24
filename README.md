@@ -1,2 +1,2 @@
-Manifest of BPApplicationEnv with id 1010 is generated successfully
+Manifest of BPCredential with id 272 is generated successfully
  
