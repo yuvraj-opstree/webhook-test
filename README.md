@@ -1,2 +1,2 @@
-Manifest of BPPipeline with id 35 is generated successfully
+Manifest of BPService with id 35 is generated successfully
  
