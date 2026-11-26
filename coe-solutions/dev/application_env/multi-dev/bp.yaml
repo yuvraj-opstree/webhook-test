@@ -1,0 +1,15 @@
+Applied_by:
+  user_email: opstree@opstree.com
+  user_name: Super Admin
+kind: BPApplicationEnv
+metadata:
+  name: multi-dev
+spec:
+  application: coe-solutions
+  cluster: dev-coe
+  environment_master: dev
+  manual_build: true
+  manual_deploy: true
+  registries:
+  - harbor
+version: api/v1
