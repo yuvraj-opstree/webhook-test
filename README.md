@@ -1,2 +1,2 @@
-Manifest of BPConfigmap with id 30 is generated successfully
+Manifest of BPPipeline with id 33 is generated successfully
  

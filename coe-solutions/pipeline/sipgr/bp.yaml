@@ -1,0 +1,12 @@
+Applied_by:
+  user_email: opstree@opstree.com
+  user_name: Super Admin
+kind: BPPipeline
+metadata:
+  name: sipgr
+spec:
+  application: coe-solutions
+  retention_execution_count: 34
+  trigger_type: Manual
+  version: v2
+version: api/v1
