@@ -1,2 +1,2 @@
-Manifest of BPServiceCI with id 25 is generated successfully
+Manifest of BPService with id 36 is generated successfully
  
