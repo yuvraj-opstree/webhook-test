@@ -1,0 +1,17 @@
+Applied_by:
+  user_email: opstree@opstree.com
+  user_name: Super Admin
+kind: BPServiceCI
+metadata:
+  application: adventure
+  environment_master: dev
+  service: kdoe
+spec:
+  application_env: mid-era
+  branch_name: BP-10446-yuvi-vel-c
+  buildkit_enabled: false
+  dockerfile_path: Dockerfile:.
+  git_repo: Maturity Dashboard
+  image_name: null
+  language: OTHER
+version: api/v1
