@@ -8,6 +8,27 @@ spec:
   application: adventure
   default_run: true
   retention_execution_count: 23
+  stages:
+  - approval: false
+    continue_on_disapproval: false
+    name: frjnrke
+    order: 1
+    send_mail: true
+    stage_run_condition: {}
+    tasks:
+    - application_env: mid-era
+      job_code: null
+      mark_success_upon_skip: false
+      name: job_1
+      on_failure_exit: true
+      on_success_exit: false
+      order: 1
+      services:
+      - license-manager-frontend
+      - sekiro
+      skip_task: false
+      task_run_condition: null
+      task_type: BUILD
   trigger_type: Manual
   version: v2
 version: api/v1
