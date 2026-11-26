@@ -1,0 +1,18 @@
+Applied_by:
+  user_email: opstree@opstree.com
+  user_name: Super Admin
+kind: BPConfigmap
+metadata:
+  name: operw
+spec:
+  application_env_namespace:
+    application_env:
+      application: coe-solutions
+      environment_master: dev
+      name: multi-dev
+    namespace:
+      cluster: dev-coe
+      name: kubelift
+  env_namespace_configmap_key_value:
+  - key: yuvraj.patel@opstree.cforom
+version: api/v1

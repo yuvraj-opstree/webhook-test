@@ -1,2 +1,2 @@
-Manifest of BPApplicationEnv with id 8 is generated successfully
+Manifest of BPConfigmap with id 30 is generated successfully
  
