@@ -1,0 +1,13 @@
+Applied_by:
+  user_email: opstree@opstree.com
+  user_name: Super Admin
+kind: BPPipeline
+metadata:
+  name: mid-release-confg
+spec:
+  application: coe-solutions
+  default_run: true
+  retention_execution_count: 23
+  trigger_type: Manual
+  version: v2
+version: api/v1
